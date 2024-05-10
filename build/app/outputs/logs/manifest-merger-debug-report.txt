@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:1:1-41:12
+MERGED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:1:1-41:12
+MERGED from [:shared_preferences_android] C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:sqflite] C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Junaid\.gradle\caches\transforms-3\9033cc8bf25e2c33a40a48152cb648e4\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Junaid\.gradle\caches\transforms-3\b3d570320c4960a3691ac02db6b39898\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Junaid\.gradle\caches\transforms-3\273847f14433e58b2c105088c2c33083\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\323c859faeb3f0b22f762f3e3186bcd0\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\124bb5abccf434fbffe48ba5b7ab2ffb\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\bdb4be764852153a624780504a5f5cae\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\39ff4b8afefe7b39c19eadbb503f45df\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Junaid\.gradle\caches\transforms-3\969a6fbe1074ab35bfe79abbfb85a642\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Junaid\.gradle\caches\transforms-3\ede8b0cbdad2025634678b735b0d6e90\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\e70b9cd65ded02c0923a608be6423eaa\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\caf8154daff023651738153b1ba6d5b7\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\26306666b091cbcac9e7ed85a65585fa\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\a1a7fe7350b83f4d943d52aa18ec9e65\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\60e1fe7307e6d7de7acf8be23d5f1788\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Junaid\.gradle\caches\transforms-3\aaed522b05d5a5a69234289914609eb2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Junaid\.gradle\caches\transforms-3\cb431207de89f4e17378f4c1aa75a228\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Junaid\.gradle\caches\transforms-3\2097fbe4068d8d29563eafe76cd50800\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:2:5-31
+		INJECTED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:1:1-41:12
+		INJECTED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:1:1-41:12
+		INJECTED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:3:4-40:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Junaid\.gradle\caches\transforms-3\b3d570320c4960a3691ac02db6b39898\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Junaid\.gradle\caches\transforms-3\b3d570320c4960a3691ac02db6b39898\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\Junaid\.gradle\caches\transforms-3\969a6fbe1074ab35bfe79abbfb85a642\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Junaid\.gradle\caches\transforms-3\969a6fbe1074ab35bfe79abbfb85a642\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Junaid\.gradle\caches\transforms-3\aaed522b05d5a5a69234289914609eb2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Junaid\.gradle\caches\transforms-3\aaed522b05d5a5a69234289914609eb2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Junaid\.gradle\caches\transforms-3\969a6fbe1074ab35bfe79abbfb85a642\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:4:9-29
+	android:icon
+		ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:5:9-43
+activity#com.example.cart.MainActivity
+ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:6:9-34:20
+	android:launchMode
+		ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:8:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:11:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:12:13-55
+	android:configChanges
+		ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:10:13-163
+	android:theme
+		ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:9:13-47
+	android:name
+		ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:7:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:17:13-20:17
+	android:resource
+		ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:19:15-52
+	android:name
+		ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:18:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:26:13-29:17
+	android:resource
+		ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:28:15-61
+	android:name
+		ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:27:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:32:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:37:9-39:33
+	android:value
+		ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:39:13-30
+	android:name
+		ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml:38:13-44
+uses-sdk
+INJECTED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences_android] C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Junaid\.gradle\caches\transforms-3\9033cc8bf25e2c33a40a48152cb648e4\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Junaid\.gradle\caches\transforms-3\9033cc8bf25e2c33a40a48152cb648e4\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Junaid\.gradle\caches\transforms-3\b3d570320c4960a3691ac02db6b39898\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Junaid\.gradle\caches\transforms-3\b3d570320c4960a3691ac02db6b39898\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Junaid\.gradle\caches\transforms-3\273847f14433e58b2c105088c2c33083\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Junaid\.gradle\caches\transforms-3\273847f14433e58b2c105088c2c33083\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\323c859faeb3f0b22f762f3e3186bcd0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\323c859faeb3f0b22f762f3e3186bcd0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\124bb5abccf434fbffe48ba5b7ab2ffb\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\124bb5abccf434fbffe48ba5b7ab2ffb\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\bdb4be764852153a624780504a5f5cae\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\bdb4be764852153a624780504a5f5cae\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\39ff4b8afefe7b39c19eadbb503f45df\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\39ff4b8afefe7b39c19eadbb503f45df\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\Junaid\.gradle\caches\transforms-3\969a6fbe1074ab35bfe79abbfb85a642\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Junaid\.gradle\caches\transforms-3\969a6fbe1074ab35bfe79abbfb85a642\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Junaid\.gradle\caches\transforms-3\ede8b0cbdad2025634678b735b0d6e90\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Junaid\.gradle\caches\transforms-3\ede8b0cbdad2025634678b735b0d6e90\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\e70b9cd65ded02c0923a608be6423eaa\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\e70b9cd65ded02c0923a608be6423eaa\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\caf8154daff023651738153b1ba6d5b7\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\caf8154daff023651738153b1ba6d5b7\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\26306666b091cbcac9e7ed85a65585fa\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\26306666b091cbcac9e7ed85a65585fa\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\a1a7fe7350b83f4d943d52aa18ec9e65\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\a1a7fe7350b83f4d943d52aa18ec9e65\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\60e1fe7307e6d7de7acf8be23d5f1788\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Junaid\.gradle\caches\transforms-3\60e1fe7307e6d7de7acf8be23d5f1788\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Junaid\.gradle\caches\transforms-3\aaed522b05d5a5a69234289914609eb2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Junaid\.gradle\caches\transforms-3\aaed522b05d5a5a69234289914609eb2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Junaid\.gradle\caches\transforms-3\cb431207de89f4e17378f4c1aa75a228\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Junaid\.gradle\caches\transforms-3\cb431207de89f4e17378f4c1aa75a228\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Junaid\.gradle\caches\transforms-3\2097fbe4068d8d29563eafe76cd50800\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Junaid\.gradle\caches\transforms-3\2097fbe4068d8d29563eafe76cd50800\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\Junaid\Flutter Apps\Flutter-Shopping-Cart-With-Provider-main\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Junaid\.gradle\caches\transforms-3\b3d570320c4960a3691ac02db6b39898\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Junaid\.gradle\caches\transforms-3\b3d570320c4960a3691ac02db6b39898\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Junaid\.gradle\caches\transforms-3\b3d570320c4960a3691ac02db6b39898\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Junaid\.gradle\caches\transforms-3\b3d570320c4960a3691ac02db6b39898\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Junaid\.gradle\caches\transforms-3\b3d570320c4960a3691ac02db6b39898\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Junaid\.gradle\caches\transforms-3\b3d570320c4960a3691ac02db6b39898\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51

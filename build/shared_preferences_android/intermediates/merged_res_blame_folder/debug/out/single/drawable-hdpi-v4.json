@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Junaid\\Flutter Apps\\Flutter-Shopping-Cart-With-Provider-main\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Junaid\\.gradle\\caches\\transforms-3\\fa3e23051d51d4a17ebf5018e7cbf8a1\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junaid\\Flutter Apps\\Flutter-Shopping-Cart-With-Provider-main\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Junaid\\.gradle\\caches\\transforms-3\\fa3e23051d51d4a17ebf5018e7cbf8a1\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junaid\\Flutter Apps\\Flutter-Shopping-Cart-With-Provider-main\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Junaid\\.gradle\\caches\\transforms-3\\fa3e23051d51d4a17ebf5018e7cbf8a1\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junaid\\Flutter Apps\\Flutter-Shopping-Cart-With-Provider-main\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Junaid\\.gradle\\caches\\transforms-3\\fa3e23051d51d4a17ebf5018e7cbf8a1\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junaid\\Flutter Apps\\Flutter-Shopping-Cart-With-Provider-main\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Junaid\\.gradle\\caches\\transforms-3\\fa3e23051d51d4a17ebf5018e7cbf8a1\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    }
+]

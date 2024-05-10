@@ -1,0 +1,1 @@
+ C:\\Users\\Junaid\\Flutter\ Apps\\Flutter-Shopping-Cart-With-Provider-main\\.dart_tool\\flutter_build\\0329593f659c5047aa459618374f7e24\\native_assets.yaml: 

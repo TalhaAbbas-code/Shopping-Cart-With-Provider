@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Junaid\\Flutter Apps\\Flutter-Shopping-Cart-With-Provider-main\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\values-es-rUS\\values-es-rUS.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Junaid\\.gradle\\caches\\transforms-3\\fa3e23051d51d4a17ebf5018e7cbf8a1\\transformed\\core-1.6.0\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Junaid\\Flutter Apps\\Flutter-Shopping-Cart-With-Provider-main\\build\\path_provider_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rUS\\values-es-rUS.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Junaid\\.gradle\\caches\\transforms-3\\fa3e23051d51d4a17ebf5018e7cbf8a1\\transformed\\core-1.6.0\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

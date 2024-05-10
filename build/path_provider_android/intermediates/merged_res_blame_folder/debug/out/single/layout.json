@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Junaid\\Flutter Apps\\Flutter-Shopping-Cart-With-Provider-main\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Junaid\\.gradle\\caches\\transforms-3\\fa3e23051d51d4a17ebf5018e7cbf8a1\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Junaid\\Flutter Apps\\Flutter-Shopping-Cart-With-Provider-main\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\Junaid\\.gradle\\caches\\transforms-3\\fa3e23051d51d4a17ebf5018e7cbf8a1\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Junaid\\Flutter Apps\\Flutter-Shopping-Cart-With-Provider-main\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Junaid\\.gradle\\caches\\transforms-3\\fa3e23051d51d4a17ebf5018e7cbf8a1\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Junaid\\Flutter Apps\\Flutter-Shopping-Cart-With-Provider-main\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Junaid\\.gradle\\caches\\transforms-3\\fa3e23051d51d4a17ebf5018e7cbf8a1\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Junaid\\Flutter Apps\\Flutter-Shopping-Cart-With-Provider-main\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Junaid\\.gradle\\caches\\transforms-3\\fa3e23051d51d4a17ebf5018e7cbf8a1\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Junaid\\Flutter Apps\\Flutter-Shopping-Cart-With-Provider-main\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Junaid\\.gradle\\caches\\transforms-3\\fa3e23051d51d4a17ebf5018e7cbf8a1\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    }
+]
