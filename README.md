@@ -1,6 +1,6 @@
 # Shopping-Cart-With-Provider
-##Flutter-Shopping-Cart-With-Provider-main
-This e-commerce project showcases a list of items with their names and price tags, accompanied by an "Add to Cart" button. The cart icon displays the real-time count of items added. In the cart section, all selected items are listed with quantities and prices, culminating in a detailed receipt highlighting the total price, discounts, and final amount to be paid.This project helps people learn basic e-commerce concepts.
+#Flutter-Shopping-Cart-With-Provider-main.<br>
+This e-commerce project showcases a list of items with their names and price tags, accompanied by an "Add to Cart" button. The cart icon displays the real-time count of items added. In the cart section, all selected items are listed with quantities and prices, culminating in a detailed receipt highlighting the total price, discounts, and final amount to be paid.This project helps people learn basic e-commerce concepts.<br>
 #output
 
 
